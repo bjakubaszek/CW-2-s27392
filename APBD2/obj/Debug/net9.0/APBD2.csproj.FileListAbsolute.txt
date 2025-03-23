@@ -1,0 +1,14 @@
+C:\Users\bartek\RiderProjects\APBD2\APBD2\bin\Debug\net9.0\APBD2.exe
+C:\Users\bartek\RiderProjects\APBD2\APBD2\bin\Debug\net9.0\APBD2.deps.json
+C:\Users\bartek\RiderProjects\APBD2\APBD2\bin\Debug\net9.0\APBD2.runtimeconfig.json
+C:\Users\bartek\RiderProjects\APBD2\APBD2\bin\Debug\net9.0\APBD2.dll
+C:\Users\bartek\RiderProjects\APBD2\APBD2\bin\Debug\net9.0\APBD2.pdb
+C:\Users\bartek\RiderProjects\APBD2\APBD2\obj\Debug\net9.0\APBD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartek\RiderProjects\APBD2\APBD2\obj\Debug\net9.0\APBD2.AssemblyInfoInputs.cache
+C:\Users\bartek\RiderProjects\APBD2\APBD2\obj\Debug\net9.0\APBD2.AssemblyInfo.cs
+C:\Users\bartek\RiderProjects\APBD2\APBD2\obj\Debug\net9.0\APBD2.csproj.CoreCompileInputs.cache
+C:\Users\bartek\RiderProjects\APBD2\APBD2\obj\Debug\net9.0\APBD2.dll
+C:\Users\bartek\RiderProjects\APBD2\APBD2\obj\Debug\net9.0\refint\APBD2.dll
+C:\Users\bartek\RiderProjects\APBD2\APBD2\obj\Debug\net9.0\APBD2.pdb
+C:\Users\bartek\RiderProjects\APBD2\APBD2\obj\Debug\net9.0\APBD2.genruntimeconfig.cache
+C:\Users\bartek\RiderProjects\APBD2\APBD2\obj\Debug\net9.0\ref\APBD2.dll
